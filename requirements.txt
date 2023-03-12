@@ -1,0 +1,4 @@
+pypdf
+svglib
+qrbill
+weasyprint
